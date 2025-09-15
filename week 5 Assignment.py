@@ -1,3 +1,4 @@
+#Assignment 1
 class House:
         def __init__(self, type, block, streetName):
                 self.type = type
